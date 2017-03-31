@@ -1,0 +1,1 @@
+Objetivo de este proyecto es crear una rama con dos commits, hacer merge, subir a Github y descargar Grupo 2
